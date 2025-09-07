@@ -1,1 +1,1 @@
-# Bau_Udemy_python
+Apenas onde eu guardo o que aprendi durante o curso
