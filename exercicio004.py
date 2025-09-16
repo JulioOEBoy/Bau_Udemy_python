@@ -5,4 +5,3 @@ if len(primeiro_nome) >= 5 and len(primeiro_nome) <= 6:
     print("Seu nome é normal.")
 if len(primeiro_nome) > 6:
     print("Seu nome é muito grande.")
-    
